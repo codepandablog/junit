@@ -1,1 +1,1 @@
-# junit
+# this is a practice project for Junit
