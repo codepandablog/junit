@@ -7,7 +7,7 @@ import org.junit.Test;
 public class TestJunit {
 	@Test
 	public void testAdd(){
-		String name="HemChandra";
+		String name="Hem Chandra";
 		assertEquals("Hem Chandra",name);
 	}
 }
